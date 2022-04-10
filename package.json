@@ -1,0 +1,24 @@
+{
+  "name": "rails-blogs",
+  "version": "1.0.0",
+  "description": "Simple blogging web application. with view, comment and post features",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imubarak234/rails-blogs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imubarak234/rails-blogs/issues"
+  },
+  "homepage": "https://github.com/imubarak234/rails-blogs#readme"
+}
